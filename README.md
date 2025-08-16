@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Nirmal  
 🎓 Software Engineering Undergraduate | 🚀 Passionate Developer  
 
-💻 **Full Stack Developer**
 
 ---
 
@@ -36,6 +35,6 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Chamara&show_icons=true&theme=radical)
 
 ---
