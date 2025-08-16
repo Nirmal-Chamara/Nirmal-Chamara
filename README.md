@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nirmal  
+🎓 Software Engineering Undergraduate | 🚀 Passionate Developer  
 
+💻 **Full Stack Developer**
 
-**Nirmal-Chamara/Nirmal-Chamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+- Full Stack Development (MERN Stack)
+- Machine Learning & AI
+- Data Structures & Algorithms  
+
+---
+
+## 🔥 Recent Projects
+- [Project 1](link-to-your-project)
+- [Project 2](link-to-your-project)
+
+---
+
+## 📊 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
