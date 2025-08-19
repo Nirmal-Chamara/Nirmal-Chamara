@@ -28,7 +28,7 @@
 ---
 
 ## 📚 Currently Learning
-- Full Stack Development (MERN Stack)
+- Full Stack Development 
 - Machine Learning & AI
 - Data Structures & Algorithms  
 
